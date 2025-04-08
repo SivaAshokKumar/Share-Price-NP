@@ -4,4 +4,5 @@ numpy
 pandas
 scikit-learn
 plotly
-neuralprophet
+torch==1.13.1
+neuralprophet==0.6.2
