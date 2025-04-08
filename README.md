@@ -1,1 +1,0 @@
-# Share-Price-NP
