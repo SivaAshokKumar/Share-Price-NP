@@ -1,8 +1,7 @@
-streamlit
-yfinance
-numpy
-pandas
-scikit-learn
-plotly
-torch==1.13.1
-neuralprophet==0.6.2
+streamlit==1.33.0
+yfinance==0.2.37
+numpy==1.24.4
+pandas==1.5.3
+neuralprophet==0.5.4
+scikit-learn==1.2.2
+plotly==5.21.0
